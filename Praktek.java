@@ -1,3 +1,7 @@
 public class Praktek{
-    Public static void main {}
+    public static void main(String[] args){
+        System.out.println("heloo cuy");
+        System.out.println("woyy");
+    }
+    
 }
